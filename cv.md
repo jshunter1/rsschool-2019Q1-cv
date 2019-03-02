@@ -1,24 +1,47 @@
-Что должно содержать в себе резюме Junior разработчика?
- 
-! Важно: по-возможности составлять резюме на английском
+Vitalii Naumov
+==============
 
-1. Имя, фамилия (реальные)
-2. Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и 
-почему. Некий вариант самопрезентации. Когда опыта минимум, 
-джун продает свой потенцил,
-свое желание и способность быстро учиться. Не занимать
-позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время
-все брать, отовсюду, всегда и т.д.).
-4. Skills (например: языки программирования, фреймворки,
-методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые 
-задания, проекты с курсов, фрилансовые проекты – все, где 
-он применял вышеупомянутые скилы. Круто, если это будет 
-со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно
-практика была, как долго и т.д.)
+__My skype:__ hbvit7
+
+__My email:__ [jshunter1@mail.ru](mailto:jshunter1@mail.ru)
+
+__I have my regular job. But I always had new knowlege hungrer.
+I like learn something new and use in my work. It is great
+when new knowlege has practical application. I'm working 
+as java developer almost six years and I want to touch
+frontend.__
+
+Skills
+------
+
+* some knowlege in __java__ programming (
+_java core_,
+_jsp_ and _servlets_,
+_spring framework_, _jpa_ and _hibernate_)
+* a little **html** and **css** practice
+* **java script** - almost none, but all is in future
+
+My frontend code
+----------------
+
+Coming soon at [githib](http://github.com/jshunter1)
+
+
+My experience
+-------------
+
+I have not experience almost in this field.
+I can create simple html-page and apply some css-styles on it.
+
+Education
+---------
+
+I graduated Kazan State Technic University in 2013.
+
+Languages
+---------
+
+I'm native Russian.
+
+I got A2 grade on my work english assesment.
 
